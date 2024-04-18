@@ -1,0 +1,292 @@
+Names	Clade	Human	Rat	Mouse	Drosophila	C. Elegans	Yeast	Arabidopsis
+bHLHa1	A	Neurod2, Neurodrf	Neurod2	Neurod2				
+bHLHa2	A	Myo51, Nex1, Neurod6	Nex1					
+bHLHa3	A	Beta2, Neurod1, Neurod(e)	Neurod1	Neurod1, Upp, Neurod(e)				
+bHLHa4	A	Neurod4	Atoh3h	Neurod4				
+bHLHa5	A					C34E107		
+bHLHa6	A	Neurod3(e), Neurog1	Neurod3	Neurog1				
+bHLHa7	A	Neurog3, Unk3	Neurog3	Neurog3				
+bHLHa8	A	Neurog2	Unk3(e)	Neurog2				
+bHLHa9	A	LOC727857	RGD13-
+-11234	Unk2(e)
+A83005-
+-3021Rik	CG5005	C44C108, T24B86,
+T05G52		
+bHLHa10	A				CG10393, CG7508	C28C128, T14F95		
+bHLHa11	A					C02B84, Y69E1A3		
+bHLHa12	A				CG7760			
+bHLHa13	A	Atoh7	Math5(e)	Atoh7				
+bHLHa14	A	Atoh1		Atoh1				
+bHLHa15	A	Mist1	Mist1	Mist1				
+bHLHa16	A				CG8667			
+bHLHa17	A	Scl(e), Tal1	Scl(e)	Tal1, Scl(e)				
+bHLHa18	A	Unk1(e), Lyl1		Lyl2(e), Unk1(e), Lyl1				
+bHLHa19	A	Tal2	Tal2(e)	Tal2				
+bHLHa20	A				CG2655			
+bHLHa21	A	Atoh8	Math6	Atoh8, Unk3(e)				
+bHLHa22	A	Musc(e), Musc	Musc	Musc				
+bHLHa23	A	Tcf21	Tcf21	Cor1(e)				
+bHLHa24	A	Tcf23	Tcf23	Out(e)				
+bHLHa25	A	Tcf24	Tcf24					
+bHLHa26	A	Hand2	Hand2	Hand2, Dhand(e), Hed(e)				
+bHLHa27	A	Hand1	Hand1	Hand1, Hxt(e)				
+bHLHa28	A				CG18144			
+bHLHa29	A	Ptf1	Ptf1a	Ptf1a				
+bHLHa30	A				CG33323			
+bHLHa31	A	Ferd3L	Ferd3L	Ferd3L				
+bHLHa32	A				CG6913			
+ 
+
+bHLHa33	A				CG5952	F48D63		
+bHLHa34	A	Nhlh2	Nesc(e)	Nhlh2, Hen2				
+bHLHa35	A	Nhlh1	Unk1(e)	Nhlh1				
+bHLHa36	A				CG3052			
+bHLHa37	A					C43H68		
+bHLHa38	A	Twist	Twist1	Twist1				
+bHLHa39	A	Twist2(e)		Twist2				
+bHLHa40	A	Tcf15	Tcf15(e)	Tcf15				
+bHLHa41	A	Scx	Scx	Scx				
+bHLHa42	A	Ascl3	Putbhlh(e)	Ascl3				
+bHLHa43	A					F57C123		
+bHLHa44	A	Ascl4	Ascl4	Ascl4				
+bHLHa45	A	Ascl2	Ascl2	Ascl2				
+bHLHa46	A	Ascl1	Ascl1	Ascl1				
+bHLHa47	A	Ascl5	Ascl5					
+bHLHa48	A	SXCB						
+bHLHa49	A	MS6N1	MS6N1	MS6N1				
+bHLHb1	B							Bhlh13, Pif3-
+1, Put2, Put1, Ptf-1
+bHLHb2	B							Pif4-2, Pif4-
+1, Unk2
+bHLHb3	B							Bhlh12, Bhlh11
+bHLHb4	B							Bhlh10, Bhlh9
+bHLHb5	B							Bhlh8, Bhlh7
+bHLHb6	B							Bhlh6, Bhlh5
+bHLHb7	B							Exp2, Unk1
+bHLHb8	B							Bhlh4, F17
+bHLHb9	B							Erpr2
+bHLHb10	B							Bhlh3, Erpr1
+bHLHb11	B	Usf1	Usf1	Usf1				
+bHLHb12	B	Usf2	Usf2					
+bHLHb13	B				CG17592A, CG17592B			
+bHLHb14	B					T01D32		Bhlh2
+bHLHb15	B						CBF1	
+bHLHb16	B						TYE7	
+bHLHb17	B				CG2956			
+bHLHb18	B					T15H93		
+bHLHb19	B	Sef21a(e), Tcf4	Mitf2(e), Tcf4	Sef2(e), Tcf4, Me2(e)				
+bHLHb20	B	Tcf4c(e),
+2Tcf12	Tcf12, Reb3(e),
+Rebox(e)	Tcf12				
+bHLHb21	B	E247(e), Ka2ppae2bf(e),
+Tcf3	Pan1(e), Tcfe2a(e),
+Tcfe12(e)	Tcfin(e), Tcfe2a,
+E2a				
+ 
+
+bHLHb22	B				CG5102			
+bHLHb23	B				CG5545			
+bHLHb24	B	Id1a, Id1b	Id1	Id1				
+bHLHb25	B	Id3	Id3	Id3				
+bHLHb26	B	Id2	Id2	Id2				
+bHLHb27	B	Id4	Id4	Id4				
+bHLHb28	B				CG1007			
+bHLHb29	B							Bhlh1
+bHLHb30	B							Exp1
+bHLHb31	B	Hey1		Hey1				
+bHLHb32	B	Hey2		Hey2				
+bHLHb33	B	HeyL		HeyL				
+bHLHb34	B				CG14548, CG8333			
+bHLHb35	B				CG8361			
+bHLHb36	B				CG6096, CG8365			
+bHLHb37	B	Hes7	Hes7	Hes7				
+bHLHb38	B	Hes5	Hes5	Hes5				
+bHLHb39	B	Hes1	Hes1	Hes1	CG6494			
+bHLHb40	B	Hes2	Hes2	Hes2				
+bHLHb41	B	Hes6	Hes6	Hes6				
+bHLHb42	B	Hes4						
+bHLHb43	B	Hes3	Hes3	Hes3				
+bHLHb44	B	Helt	Helt	Helt				
+bHLHc1	C	Myf3(e), Myod	Myod1	Myod1				
+bHLHc2	C	Myf5	Myf5(e)	Myf5				
+bHLHc3	C	Myf4(e)	Myog	Myog				
+bHLHc4	C	Myf6	Myf6	Myf6				
+bHLHc5	C	Mp1	Mesp1	Mesp1				
+bHLHc6	C	Mesp2	Mesp2(e)	Mesp2				
+bHLHc7	C				CG12952a, CG12952b			Bhlh46
+bHLHc8	C	GA		Fig1a				
+bHLHc9	C				CG7659			
+bHLHc10	C				CG5441			
+bHLHc11	C	Mxi1a, Mxi1b	Mxi1	Mxi1, Mad				
+bHLHc12	C	Mad4		Mad4, Mxd4				
+bHLHc13	C	Mxd3	Mxd3	Mxd3				
+bHLHc14	C				CG8346, CG8328			
+bHLHc15	C					R03E91		
+bHLHc16	C							Bhlh45, Ptf-
+3, Ptf-2
+bHLHc17	C							Pad, Bhlh44
+bHLHc18	C							F0
+bHLHc19	C							Bhlh43
+Bhlh42,
+3Bhlh41,
+B3hlh40
+ 
+
+bHLHc20	C							Bh3lh39
+bHLHc21	C				CG5927			
+bHLHc22	C					T01E82		
+bHLHc25	C					Y54G2A1		
+bHLHc26	C							B3hlh37, Bh3lh38,
+Bhl3h36
+bHLHc27	C							Unk34
+bHLHc28	C				CG3258, CG3839, CG3827	C18A38		
+bHLHc29	C							B3hlh34, Bhlh35
+bHLHc30	C							Bhlh33
+bHLHc31	C							Bhlh32, Bhlh31
+bHLHc32	C							Bhlh30, Bhlh29
+bHLHc33	C							Bhlh28, Bhlh27
+bHLHc34	C					DY33, F38C22		
+bHLHc35	C							Bhlh26, Bhlh25
+bHLHc36	C							Exp7, Exp6
+bHLHc37	C						INO2, PHO4	
+bHLHc38	C							Tif, Hyp1
+bHLHc39	C							Bhlh24
+bHLHc40	C							Bhlh23
+bHLHc41	C	TFAP4	TFAP4	TFAP4				
+bHLHc42	C				CG11450			
+bHLHc43	C							PP-1
+bHLHc44	C							Bhlh22
+bHLHc45	C						RTG1	
+bHLHc46	C					F40G911		
+bHLHc47	C							Pif3-2
+bHLHc48	C					M05B55		
+bHLHc49	C							Unk3
+bHLHc50	C							P50
+bHLHc51	C							Exp5
+bHLHc52	C							Exp4, Exp3
+bHLHc53	C							Bhlh20, Bhlh21
+bHLHc54	C							Bhlh19, Bhlh18
+bHLHc55	C							Bhlh17
+bHLHc56	C							Bhlh16, Bhlh15
+bHLHc57	C							Bhlh14
+bHLHc58	C	Mxd1	Mxd1	Mxd1				
+ 
+
+bHLHd1	D	Srebf1a, Srebf1b	Add1, Srebp1c	Srebf1				
+bHLHd2	D	Srebf2		Srebf2				
+bHLHd3	D	Mnt		Mnt				
+bHLHd4	D	Maxd						
+bHLHd5	D	Maxf						
+bHLHd6	D	Maxa, Max, Maxb		Max				
+bHLHd7	D	Maxc						
+bHLHd8	D	Maxe						
+bHLHd9	D				CG9648			
+bHLHd10	D					F46G106		
+bHLHd11	D					F38A63		
+bHLHd12	D				CG18362a, CG18362b, CG18362c,
+CG18362d,
+CG18362e			
+bHLHd13	D	MLX	MLX/Mix	MLX/Mix	CG3350			
+bHLHd14	D	MLXIPI		Mixipi				
+bHLHe1	E	Arnt2	Arnt2	Arnt2				
+bHLHe2	E	Arnt	Arnt	Arnt				
+bHLHe3	E					C25A111		
+bHLHe4	E				CG11987			
+bHLHe5	E	Arntl	Arntl	Arntl				
+bHLHe6	E	Arntl2	Arntl2	Arntl2				
+bHLHe7	E				CG8727			
+bHLHe8	E	Clock	Clock	Clock				
+bHLHe9	E	Npas2	Npas2	Npas2				
+bHLHe10	E				CG7391			
+bHLHe11	E	Npas1	Npas1	Npas1				
+bHLHe12	E	Npas3	Npas3	Npas3				
+bHLHe13	E				CG6883			
+bHLHe14	E	Sim1		Sim1				
+bHLHe15	E	Sim2		Sim2				
+bHLHe16	E				CG7771			
+bHLHe17	E	Hif3a	Hif3a	Hif3a				
+bHLHe18	E					41G75		
+bHLHe19	E	Bhlh1(e), Olig2	Olig2(e)	Olig2				
+bHLHe20	E	Olig3	Olig3(e)	Olig3				
+bHLHe21	E	Olig1var(e), Olig1	Olig1	Olig1				
+bHLHe22	E	Bhlhb5	Beta2	Bhlhb5				
+bHLHe23	E	Bhlhb4		Bhlhb4				
+bHLHe24	E							Bhlh70, Bhlh71
+bHLHe25	E							Bhlh69, Bhlh68
+bHLHe26	E							Bhlh67, Bhlh66
+ 
+
+bHLHe27	E							Myc
+bHLHe28	E							Bhlh65
+bHLHe29	E							Bhlh64, Btf
+bHLHe30	E							Bhlh63
+bHLHe31	E							Bhlh60, Bhlh62,
+Bhlh61,
+Bhlh59
+bHLHe32	E	Mif	Mitf	Mitf				
+bHLHe33	E	Tcfe3		Tcfe3				
+bHLHe34	E	Tcfec		Tcfec				
+bHLHe35	E	Tfeb		Tcfeb				
+bHLHe36	E	Mondoa		Wbscr14				
+bHLHe37	E	Mycn	Mycs	Nmyc1				
+bHLHe38	E	Mycl1	Mycl1	Lmyc1				
+bHLHe39	E	Myc	Myc	Myc				
+bHLHe40	E	Bhlhb2	Bhlhb2	Bhlhb2				
+bHLHe41	E	Bhlhb3	Bhlhb3	Bhlhb3				
+bHLHe42	E	Ncoa3	Ncoa3	Ncoa3				
+bHLHe43	E				CG13316a, CG13316b			
+bHLHe44	E				CG11194			
+bHLHe45	E							Erfp
+bHLHe46	E					C17C31, C17C37		
+bHLHe47	E					F31A32, F31A34		
+bHLHe48	E							Bhlh58, T10024
+bHLHe49	E				CG17100			
+bHLHe50	E				CG8704			
+bHLHe51	E				CG10446			
+bHLHe52	E							Exp9
+bHLHe53	E							Bhlh57
+bHLHe54	E							Cdp
+bHLHe55	E							Ptf-5
+bHLHe56	E				CG7951			
+bHLHe57	E				CG10798			
+bHLHe58	E							Pif3-3
+bHLHe59	E				CG1705			
+bHLHe60	E							Bhlh56
+bHLHe61	E							Erpr4
+bHLHe62	E							Erpr3
+bHLHe63	E				CG7664			
+bHLHe64	E					Y7D3B7		
+bHLHe65	E						Rtg3	
+bHLHe66	E						Hms1	
+bHLHe67	E							Put3
+bHLHe68	E							Bhlh55, Ptf-
+4, Bhlh54
+
+ 
+
+bHLHe69	E							Exp8
+bHLHe70	E							Bhlh53, Bhlh52
+bHLHe71	E							Bhlh51, Bhlh50
+bHLHe72	E							Bhlh49, Bhlh48, Bhlh47
+bHLHe73	E	EPAS1	EPAS1	EPAS1				
+bHLHe74	E	NCOA1	NCOA1	NCOA1				
+bHLHe75	E	NCOA2	NCOA2	NCOA2				
+bHLHe76	E	AHR	AHR	AHR				
+bHLHe77	E	AHRR	AHRR	AHRR				
+bHLHe78	E	HIF1	HIF1	HIF1				
+bHLHe79	E	NPAS4	NPAS4	NPAS4				
+  bHLHe80	E	SOHLH1						
+  bHLHe81	E	SOHLH2	SOHLH2	SOHLH2				
+  bHLHe82	E	TCFL5		TCFL5				
+  bHLHe83	E	Myc12						
+bHLHf1	F							PP-2, Ptf-8
+bHLHf2	F							Bhlh86, Bhlh85
+bHLHf3	F							Ptf-7
+bHLHf4	F							Bhlh84, Bhlh83
+bHLHf5	F							At,Bhlh82, Hyp3, Unk6,
+Ptf-6
+bHLHf6	F							Bhlh81, Pbhlh2,
+Unk5, Spt
+bHLHf7	F							Bhlh80, Hyp2, Hfr1, Pbhlh1
+bHLHf8	F							Bhlh79, Bhlh78
+bHLHf9	F							Bhlh77
