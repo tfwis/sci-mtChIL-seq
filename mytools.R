@@ -199,3 +199,7 @@ extend <- function(x, upstream=0, downstream=0) {
 }
 
 
+defcols <- function(n, l=65) {
+  hues <- seq(15, 375, length=n+1)
+  hcl(h=hues, l=l, c=100)[1:n]
+}
